@@ -1,0 +1,18 @@
+*.class
+*.jar
+*.log
+.idea/
+.vscode/
+out/
+bin/
+target/
+
+# Generated output files
+*_highlighted.html
+Bits_*.html
+
+# Reports / private academic files
+*.pdf
+*.docx
+
+.DS_Store
